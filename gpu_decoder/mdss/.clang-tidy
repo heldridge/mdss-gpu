@@ -1,0 +1,5 @@
+CheckOptions:
+  - key: cppcoreguidelines-pro-bounds-pointer-arithmetic
+    value: disabled
+  - key: cppcoreguidelines-init-variables
+    value: disabled
